@@ -1,4 +1,4 @@
-package Java.Strategy_Design_Pattern.Code.src.Strategy;
+package Strategy;
 
 public class MotorDriveStrategy implements DriveStrategy {
     public void drive() {
