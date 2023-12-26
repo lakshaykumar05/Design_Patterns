@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, in Singleton Design Pattern!");
 
-        // MyClass myClass = new MyClass();   Normal Object making but here in singleton we cant do like this bcz then it will not remain singleton.
+        // MyClass myClass = new MyClass();  // Normal Object making but here in singleton we cant do like this bcz then it will not remain singleton.
 
         // MyClass myClass1 = MyClass.getInstance();
         // System.out.println(myClass1);
