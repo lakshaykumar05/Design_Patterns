@@ -1,7 +1,6 @@
+import Item.Cycle;
 import Item.Bus;
 import Item.Car;
-import Item.Cycle;
-import Item.Vehicle;
 
 public class App {
     public static void main(String[] args) throws Exception {
